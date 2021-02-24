@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KamathScience
+- 👋 Hi, I’m Divya Kamath
+- I am a software developer
 - 🌱 I’m currently learning Java, DS and C++
 
 
