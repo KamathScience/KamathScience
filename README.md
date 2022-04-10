@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Divya Kamath
-- I want to be a software developer
-- Always a student of computer science 
+- I am a software developer
+- I enjoy learning about Computer Science, every project I do is a practice or is something I learn from :)
+
 
 
 <!---
