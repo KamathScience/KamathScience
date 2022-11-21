@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Divya Kamath
 - I am a software developer
-- I enjoy learning about Computer Science, every project I do is a practice or is something I learn from :)
 
 
 
