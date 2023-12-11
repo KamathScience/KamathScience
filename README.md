@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Divya Kamath
-- I am a software developer
+Building a better tomorrow, one line of code at a time.
 
 
 
